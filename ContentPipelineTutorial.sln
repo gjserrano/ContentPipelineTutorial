@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentPipelineTutorial", "ContentPipelineTutorial\ContentPipelineTutorial.csproj", "{ABA01EB4-576E-4461-AE66-B4D4C0BDBBE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelLibrary", "LevelLibrary\LevelLibrary.csproj", "{C8FA8D09-7D01-4572-A136-1EB34BE33D10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelContentPipelineExtension", "LevelContentPipelineExtension\LevelContentPipelineExtension.csproj", "{D9B428B8-3DAA-462D-AE5F-1EA5BD0AD540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA01EB4-576E-4461-AE66-B4D4C0BDBBE8}.Debug|x86.ActiveCfg = Debug|x86
+		{ABA01EB4-576E-4461-AE66-B4D4C0BDBBE8}.Debug|x86.Build.0 = Debug|x86
+		{ABA01EB4-576E-4461-AE66-B4D4C0BDBBE8}.Release|x86.ActiveCfg = Release|x86
+		{ABA01EB4-576E-4461-AE66-B4D4C0BDBBE8}.Release|x86.Build.0 = Release|x86
+		{C8FA8D09-7D01-4572-A136-1EB34BE33D10}.Debug|x86.ActiveCfg = Debug|x86
+		{C8FA8D09-7D01-4572-A136-1EB34BE33D10}.Debug|x86.Build.0 = Debug|x86
+		{C8FA8D09-7D01-4572-A136-1EB34BE33D10}.Release|x86.ActiveCfg = Release|x86
+		{C8FA8D09-7D01-4572-A136-1EB34BE33D10}.Release|x86.Build.0 = Release|x86
+		{D9B428B8-3DAA-462D-AE5F-1EA5BD0AD540}.Debug|x86.ActiveCfg = Debug|x86
+		{D9B428B8-3DAA-462D-AE5F-1EA5BD0AD540}.Debug|x86.Build.0 = Debug|x86
+		{D9B428B8-3DAA-462D-AE5F-1EA5BD0AD540}.Release|x86.ActiveCfg = Release|x86
+		{D9B428B8-3DAA-462D-AE5F-1EA5BD0AD540}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48409853-7CD9-4DA9-858F-DF5E591EEDDD}
+	EndGlobalSection
+EndGlobal
